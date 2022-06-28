@@ -1,4 +1,3 @@
-Learning React from this tutorial
+REACT Currency Converter.
 
-https://www.youtube.com/watch?v=XN5elYWiSuw
-
+Learning REACT
